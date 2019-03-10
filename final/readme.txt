@@ -1,6 +1,7 @@
-tabelog_read.py ©M tripadvisor_read ¥Î¨Ó§ìdata  3­ÓcsvÀÉ´N¬O§ì¤U¨Óªºdata
+tabelog_read.py å’Œ tripadvisor_read ç”¨ä¾†æŠ“data  3å€‹csvæª”å°±æ˜¯æŠ“ä¸‹ä¾†çš„data
 
-tabelog_data.py ©M tripadvisor_data.py ¤À§O¤ÀªR¨â­Óºô¯¸ªºdata
+tabelog_data.py å’Œ tripadvisor_data.py åˆ†åˆ¥åˆ†æå…©å€‹ç¶²ç«™çš„data
 
-convert.py ¥Î¨Ó°µÂà´«©M¤ÀªRÂà´««áªºµ²ªG   pythonÀÉÀ³¸Ó³£ª½±µ°õ¦æ´N¦³µ²ªG¤F
+convert.py ç”¨ä¾†åšè½‰æ›å’Œåˆ†æè½‰æ›å¾Œçš„çµæœ   pythonæª”æ‡‰è©²éƒ½ç›´æ¥åŸ·è¡Œå°±æœ‰çµæœäº†
 
+report : Data mining final report.pdf
